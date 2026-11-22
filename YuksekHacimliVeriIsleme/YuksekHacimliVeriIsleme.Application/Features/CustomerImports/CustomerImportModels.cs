@@ -16,6 +16,7 @@ public sealed record CustomerImportJobDto(
     DateTime UploadedAt,
     DateTime? StartedAt,
     DateTime? CompletedAt,
+
     string? FailureReason)
 {
     public double ProgressPercentage => TotalRows == 0
