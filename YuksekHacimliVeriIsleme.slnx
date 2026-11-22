@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Test/Test.csproj" />
+  <Project Path="YuksekHacimliVeriIsleme/YuksekHacimliVeriIsleme.Application/YuksekHacimliVeriIsleme.Application.csproj" />
+  <Project Path="YuksekHacimliVeriIsleme/YuksekHacimliVeriIsleme.Domain/YuksekHacimliVeriIsleme.Domain.csproj" />
+  <Project Path="YuksekHacimliVeriIsleme/YuksekHacimliVeriIsleme.Infrastructure/YuksekHacimliVeriIsleme.Infrastructure.csproj" />
+  <Project Path="YuksekHacimliVeriIsleme/YuksekHacimliVeriIsleme.WebAPI/YuksekHacimliVeriIsleme.WebAPI.csproj" />
+</Solution>
